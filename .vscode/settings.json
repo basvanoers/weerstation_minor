@@ -33,5 +33,6 @@
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\vanoe\\Prive\\elektrotechniek\\4e jaar\\Minor smart things\\Weerstation\\Code\\weerstation\\build"
   ],
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "idf.port": "COM7"
 }
